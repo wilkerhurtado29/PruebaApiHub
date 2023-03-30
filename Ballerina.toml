@@ -1,0 +1,9 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.3.1"
+  name = "pruebaapichoreo2"
+  org = "sybvenwilker"
+  version = "0.1.0"
+
